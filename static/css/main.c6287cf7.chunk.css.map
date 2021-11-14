@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/scss/_globals.scss"],"names":[],"mappings":"AAAA,KACE,qBAAA,CAGF,iBAGE,kBAAA,CACA,QAAA,CACA,SAAA","file":"main.c6287cf7.chunk.css","sourcesContent":["html {\r\n  box-sizing: border-box;\r\n}\r\n\r\n*,\r\n*::after,\r\n*::before {\r\n  box-sizing: inherit;\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n"]}
